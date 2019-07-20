@@ -1,0 +1,7 @@
+<suite name="HMS">
+<test name="REsults">
+<classes>
+<class name="webdriverHMS.Registration"></class>
+</classes>
+</test>
+</suite>

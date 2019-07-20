@@ -1,0 +1,7 @@
+<suite name = "HMS">
+<test name = "HMSResults">
+<classes>
+<class name="com.testScripts.HMSPRScript"></class>
+</classes>
+</test>
+</suite>

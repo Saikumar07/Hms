@@ -1,0 +1,26 @@
+2019-07-11 16:52:39 WARN  NewTest:11 - warn
+2019-07-11 16:52:39 FATAL NewTest:12 - fatal
+2019-07-11 16:52:39 INFO  NewTest:13 - info
+2019-07-11 16:52:39 ERROR NewTest:14 - error
+2019-07-11 16:52:39 DEBUG NewTest:15 - debug
+2019-07-11 16:54:49 DEBUG NewTest:11 - debug
+2019-07-11 16:54:49 WARN  NewTest:12 - warn
+2019-07-11 16:54:49 INFO  NewTest:13 - info
+2019-07-11 16:54:49 ERROR NewTest:14 - error
+2019-07-11 16:54:49 FATAL NewTest:15 - fatal
+2019-07-11 17:15:02 INFO  BaseClass:86 - Opened the URL http://selenium4testing.com/hms/
+2019-07-11 17:15:04 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='username']
+2019-07-11 17:15:04 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='password']
+2019-07-11 17:15:21 INFO  BaseClass:96 - Clicked on By.xpath: //input[@value='Login']
+2019-07-11 17:15:25 INFO  BaseClass:96 - Clicked on By.linkText: Registration
+2019-07-11 17:15:26 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='PNT_NAME']
+2019-07-11 17:15:26 INFO  BaseClass:96 - Clicked on By.xpath: //*[@name='DOB']
+2019-07-11 17:15:26 INFO  BaseClass:96 - Clicked on By.xpath: //*[@id='tcalGrid']/tbody/tr[5]/td[3]
+2019-07-11 17:15:26 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='AGE']
+2019-07-11 17:15:27 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='PAT_IDENTITY_PROOF']
+2019-07-11 17:15:27 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='LAST_NAME']
+2019-07-11 17:15:28 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='ADDRESS1']
+2019-07-11 17:15:28 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='MOBILE_NO']
+2019-07-11 17:15:29 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='ZIP']
+2019-07-11 17:15:29 INFO  BaseClass:116 - Entered the value in the Textbox :By.xpath: //input[@name='image']
+2019-07-11 17:15:30 INFO  BaseClass:96 - Clicked on By.xpath: //*[@name='submit']
